@@ -9,3 +9,10 @@ This 4 step process is scientifically proven to guarantee success in the compute
 KedarPanchal/KedarPanchal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=KedarPanchal&count_private=true&theme=omni&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KedarPanchal&theme=omni&layout=compact&card_width=350" height="195rem">
+  </a>
+</p>

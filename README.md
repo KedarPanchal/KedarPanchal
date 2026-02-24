@@ -1,6 +1,6 @@
 # Hi! I'm Kedar!
 
-As a Computer Science and Cybersecurity Honors student at Texas A&M, I am an aspiring software developer with a passion for artificial intelligence and its potential to create robust solutions. As I begin my college journey, I'm actively seeking internship opportunities or collaborative projects that allow me to further my skills and contribute to meaningful software initiatives. 
+As a Computer Science and Cybersecurity Honors student at Texas A&M, I am an aspiring software developer with a broad range of interests, with robotics and language design currently piquing my curiosity. During my college journey, I'm actively seeking internship opportunities or collaborative projects that allow me to further my skills and contribute to meaningful software initiatives. 
 
 My projects embody my goals, and I've independently developed full-stack applications, multi-container backends, mobile apps, integrated modular AI agents, neural networks, small language model fine-tunes, and command-line applications using a wide array of industry-standard tools and frameworks. I've also got industry experience in developing and deploying AI agents supported by a fleet of tools, including Langchain, MCP servers, databases, and Redis caches.
 
